@@ -8,6 +8,13 @@
       "when": 1752012759763,
       "tag": "0000_fuzzy_robbie_robertson",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752021373939,
+      "tag": "0001_bumpy_spencer_smythe",
+      "breakpoints": true
     }
   ]
 }
